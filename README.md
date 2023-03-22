@@ -8,3 +8,5 @@ Hardest task №3
 Hardest task №10
 5) HW-5 - about 11 hours.
 Hardest task №7
+6) HW-6 - about 2 hours.
+Hardest task №5
