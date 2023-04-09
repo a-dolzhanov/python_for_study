@@ -12,3 +12,4 @@ Hardest task №7
 Hardest task №5
 7) HW-7 - about 6 hours.
 Hardest task №1
+8) Final Project. Grocery store sales analysis - about 7 hours.
